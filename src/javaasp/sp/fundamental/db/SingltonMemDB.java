@@ -28,7 +28,7 @@ public class SingltonMemDB implements Serializable {
 	
 	public List<EmployeeTable> selectTableByDepartment(String tableName, String department) {
 		List<EmployeeTable> selTable = db.get(tableName).stream()
-				.filter(empTle->"itpart".equals(empTle.department))
+				.filter(empTle->department.equals(empTle.department))
 				.collect(Collectors.toList());
 		
 		return selTable;		
