@@ -244,5 +244,9 @@ Tolerance) 간의 트레이드오프
 	* 네트워크 상의 악의적 공격 방지를 위한 보안 정책 수립
 결론
 이처럼 분산 응용 시스템의 각 특징별로 적합한 기술을 적용하고, 시스템 설계 시 다양한 고려사
-항을 충족해야 합니다. 각 기술은 장단점이 있으며, 상황에 맞게 적절하게 선택하는 것이 중요합
-니다.
+항을 충족해야 합니다. 각 기술은 장단점이 있으며, 상황에 맞게 적절하게 선택하는 것이 중요합니다.
+
+![1 구성도_Sample](https://github.com/user-attachments/assets/a4b79451-f160-4be0-90d0-0566f638075b)
+![2 순서도_Sample](https://github.com/user-attachments/assets/0c1305e7-e686-48e4-a231-4ff1c735b96b)
+![3 적용기술_Sample](https://github.com/user-attachments/assets/2ba7ac14-f5a0-409d-9003-15f515ceb09b)
+![4 상용화_Sample](https://github.com/user-attachments/assets/0cc393a6-862e-42f2-b0bf-8a45ac6b4fe7)
