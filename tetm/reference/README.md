@@ -246,11 +246,14 @@ Tolerance) 간의 트레이드오프
 이처럼 분산 응용 시스템의 각 특징별로 적합한 기술을 적용하고, 시스템 설계 시 다양한 고려사
 항을 충족해야 합니다. 각 기술은 장단점이 있으며, 상황에 맞게 적절하게 선택하는 것이 중요합니다.
 
-## 작성 Samples
-
+## 작성 Samples 1
 ![1 구성도_Sample](https://github.com/user-attachments/assets/a4b79451-f160-4be0-90d0-0566f638075b)
 ![2 순서도_Sample](https://github.com/user-attachments/assets/0c1305e7-e686-48e4-a231-4ff1c735b96b)
 ![3 적용기술_Sample](https://github.com/user-attachments/assets/2ba7ac14-f5a0-409d-9003-15f515ceb09b)
-![3 적용기술_Sample2](https://github.com/user-attachments/assets/4e94ad7c-6b94-4234-8d5f-24f4244f3e67)
 ![4 상용화_Sample](https://github.com/user-attachments/assets/0cc393a6-862e-42f2-b0bf-8a45ac6b4fe7)
+
+## 작성 Samples 2
+![1 구성도_Sample2](https://github.com/user-attachments/assets/514e8651-91e0-4987-a7e0-f1e409d942e3)
+![2 순서도_Sample2](https://github.com/user-attachments/assets/3399b577-7339-485c-9bc6-be2809c7c030)
+![3 적용기술_Sample2](https://github.com/user-attachments/assets/4e94ad7c-6b94-4234-8d5f-24f4244f3e67)
 ![4 상용화_Sample2](https://github.com/user-attachments/assets/df2df55b-57b9-4728-89a4-61ce97a6ad3c)
