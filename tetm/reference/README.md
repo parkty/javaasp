@@ -257,3 +257,6 @@ Tolerance) 간의 트레이드오프
 ![2 순서도_Sample2](https://github.com/user-attachments/assets/3399b577-7339-485c-9bc6-be2809c7c030)
 ![3 적용기술_Sample2](https://github.com/user-attachments/assets/4e94ad7c-6b94-4234-8d5f-24f4244f3e67)
 ![4 상용화_Sample2](https://github.com/user-attachments/assets/df2df55b-57b9-4728-89a4-61ce97a6ad3c)
+
+## Study Note
+![20241029_015052](https://github.com/user-attachments/assets/d649102c-0edc-46ad-899c-199eb28eb56e)
